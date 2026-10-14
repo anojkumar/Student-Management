@@ -85,7 +85,7 @@ npm install -g @angular/cli@22
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/student-management.git
+git clone https://github.com/anojkumar/Student-Management.git
 ```
 
 Replace `YOUR-USERNAME` with your GitHub username after publishing the repository.
